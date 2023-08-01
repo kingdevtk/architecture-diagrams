@@ -8,7 +8,7 @@
 <br>
 
 
-- ***Retool***: Retool helps developers build powerful internal tools, fast. Using their drag-and-drop components you can quickly create commonly-used internal applications like admin dashboards, database GUIs, and more, and then customize them to your company's needs using code. For this project, I was tasked with deploying Retool in a self-hosted environment on AWS. https://docs.retool.com/self-hosted
+- ***Retool***: Retool helps developers build powerful internal tools, fast. Using their drag-and-drop components you can quickly create commonly-used internal applications like admin dashboards, database GUIs, and more, and then customize them to your company's needs using code. For this project, I was tasked with deploying Retool in a self-hosted environment on AWS. 
 
  ![retool_app_self_hosted](https://github.com/kingdevtk/architecture-diagrams/assets/61067769/73becbb5-e011-43b1-8989-72e1e951c0d1)
 
